@@ -1,0 +1,33 @@
+/*div13*/
+.service-box {
+    border: 1px solid #eee;
+    box-shadow: 5px 5px 5px #ddd;
+}
+
+    .service-box .img-box {
+        width: 100%;
+        height: 200px;
+    }
+
+        .service-box .img-box img {
+            width: 100%;
+            height: 100%;
+        }
+
+    .service-box .Para-box {
+        padding: 10px;
+        background-color: #fff;
+        height: 290px;
+    }
+
+        .service-box .Para-box p {
+            text-align: justify;
+        }
+
+.about {
+    background-image: url('image/abutus2.jpg');
+    background-size: cover;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}

@@ -1,0 +1,120 @@
+/*dropdown whatwedo*/
+.usthree {
+    color:white;
+    margin-top: 35px;
+    margin-right: 920px;
+    font-weight: bold;
+} 
+@media (min-width: 576px) and (max-width: 767.98px) {.usthree {
+ font-size: 20px;
+margin-left: -5px;
+} }
+@media (max-width: 575.98px) { 
+    .usthree {
+    font-size: 21px;
+} 
+}
+.imgcustomized {
+    height:500px;
+    width:80%;
+}
+.sub-title {
+    margin-top: 20px;
+    font-weight: bold;
+}
+.blog-entry-excerpt {
+    font-size: 15px;
+    font-weight: 400;
+    color: #4c4c4c;
+    margin-bottom: 1.5em;
+    margin: 0 0 10px;
+    text-align: justify;
+}
+.polygon-list {
+    font-size: 15px;
+    font-weight: 400;
+    color: #4c4c4c;
+    text-align: justify;
+}
+@media (min-width: 576px) and (max-width: 767.98px) { .imgcustomized {
+    height: 345px;
+    width: 1000%;
+    margin-left: 30px;
+} }
+@media (max-width: 575.98px) { .imgcustomized {
+    height: 345px;
+    width: 1000%;
+    margin-left: 30px;
+} }
+
+/*/*asp.from
+.formdesign {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    height: 476px;
+    width: 378px;
+    margin-left: 342px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 3px 5px #2E8BC0;
+}
+.logodesign {
+    font-size: 20px; 
+    margin-bottom: 3px; 
+    margin-top: 0px; 
+    color:#2E8BC0;
+}
+.heademp {
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    font-size: 18px;
+}
+.btndesign {
+   background-color: #2E8BC0;
+   color: white;border: none;
+   cursor: pointer;
+   height: 26px;
+   width: 92px;
+   border-start-start-radius: 29px;
+}
+@media (max-width: 575.98px) {
+    .formdesign {
+      margin-left:51px;
+    }
+     .tabledesign {
+    margin-left:10px!important;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {  
+    .formdesign {
+      margin-left:168px;
+    } 
+     .tabledesign {
+    margin-left:70px!important;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .formdesign {
+      margin-left:248px;
+    } 
+     .tabledesign {
+    margin-left:91px!important;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+     .formdesign {
+      margin-left:430px;
+    }
+    .tabledesign {
+    margin-left:118px;
+    }
+}
+.tabledesign {
+    height:auto;
+    width:80%;
+    margin-left:118px;
+}
+.w3-sidebar {
+  position: absolute !important;
+}*/
+ 
